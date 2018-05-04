@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">json_ex</string>
+    <string name="first_coin">coin 1 : </string>
+    <string name="second_coin">coin 2 : </string>
+    <string name="exchange_rate">exchange_rate : </string>
 </resources>
