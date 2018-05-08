@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">json_예제</string>
-    <string name="first_coin">동전 1 : </string>
-    <string name="second_coin">동전 2 : </string>
-    <string name="exchange_rate">환율 : </string>
+<string name="app_name">json_예제</string>
+<string name="first_coin">동전 1 : </string>
+<string name="second_coin">동전 2 : </string>
+<string name="exchange_rate">환율(rate) : </string>
 </resources>
